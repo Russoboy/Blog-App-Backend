@@ -4,6 +4,7 @@ To all Dependecies
 
 To install individual dependencies
 
-npm install bcrypts mongoose cors express multer
+npm install bcrypts mongoose cors express multer dotenv
+
 
 
