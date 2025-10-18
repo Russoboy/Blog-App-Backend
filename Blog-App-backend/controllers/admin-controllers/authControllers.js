@@ -1,5 +1,5 @@
 // controllers/admin-controllers/authControllers.js
-const bcrypt = require('bcryptjs');
+const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const User = require('../../models/User'); // adjust path if needed
 
