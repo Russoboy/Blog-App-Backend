@@ -4,4 +4,5 @@ To all Dependecies
 
 To install individual dependencies
 
-npm install bcrypts mongoose cors
+npm install bcrypts mongoose cors express
+
